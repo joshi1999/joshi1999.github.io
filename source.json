@@ -1,75 +1,32 @@
 {
-  "name":
-  "joshi's",
-  "subtitle":
-  "A source for all of my apps",
-  "description":
-  "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL":
-  "https://joshi1999.github.io/icon.png",
-  "tintColor":
-  "#6156e2",
-  "featuredApps":
-  [
+  "name": "joshi's",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://joshi1999.github.io/icon.png",
+  "tintColor": "#6156e2",
+  "featuredApps": [
   ],
-  "apps":
-  [
+  "apps": [
     {
-      "name":
-      "Geizblock",
-      "bundleIdentifier":
-      "de.greensurvivors.geizblock",
-      "marketplaceID":
-      "",
-      "developerName":
-      "joshi1999",
-      "subtitle":
-      "",
-      "localizedDescription":
-      "",
-      "iconURL":
-      "https://joshi1999.github.io/icon.png",
-      "tintColor":
-      "#04cc24",
-      "category":
-      "games",
-      "screenshots":
-      [
-      ],
-      "versions":
-      [
+      "name": "Geizblock",
+      "bundleIdentifier": "de.greensurvivors.geizblock",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://joshi1999.github.io/icon.png",
+      "tintColor": "#04cc24",
+      "versions": [
         {
-          "downloadURL":
-          "https://joshi1999.github.io/Geizblock.ipa",
-          "size":
-          9100000,
-          "version":
-          "1.0",
-          "buildVersion":
-          "1",
-          "date":
-          "2026-06-09T12:19:00+02:00",
-          "localizedDescription":
-          null,
-          "minOSVersion":
-          null
+          "downloadURL": "https://joshi1999.github.io/Geizblock.ipa",
+          "size": 9100000,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-09T12:19:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
         }
-      ],
-      "appPermissions":
-      {
-        "entitlements":
-        [
-        ],
-        "privacy":
-        {
-        }
-      },
-      "patreon":
-      {
-      }
+      ]
     }
   ],
-  "news":
-  [
+  "news": [
   ]
 }
