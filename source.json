@@ -10,10 +10,14 @@
     {
       "name": "Geizblock",
       "bundleIdentifier": "de.greensurvivors.geizblock",
+      "developerName": "joshi1999",
       "subtitle": "",
       "localizedDescription": "",
       "iconURL": "https://joshi1999.github.io/icon.png",
       "tintColor": "#04cc24",
+      "category": "games",
+      "screenshots": [
+      ],
       "versions": [
         {
           "downloadURL": "https://joshi1999.github.io/Geizblock.ipa",
@@ -24,7 +28,15 @@
           "localizedDescription": null,
           "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+        ],
+        "privacy": {
+        }
+      },
+      "patreon": {
+      }
     }
   ],
   "news": [
