@@ -1,54 +1,75 @@
 {
   "name":
-  "Geizblock",
-  "bundleIdentifier":
-  "de.greensurvivors.geizblock",
-  "marketplaceID":
-  "",
-  "developerName":
-  "joshi1999",
+  "joshi's",
   "subtitle":
-  "",
-  "localizedDescription":
-  "",
+  "A source for all of my apps",
+  "description":
+  "Welcome to my source! Here you'll find all of my apps.",
   "iconURL":
   "https://joshi1999.github.io/icon.png",
   "tintColor":
-  "#04cc24",
-  "category":
-  "games",
-  "screenshots":
+  "#6156e2",
+  "featuredApps":
   [
   ],
-  "versions":
+  "apps":
   [
     {
-      "downloadURL":
-      "https://joshi1999.github.io/Geizblock.ipa",
-      "size":
-      9100000,
-      "version":
-      "1.0",
-      "buildVersion":
-      null,
-      "date":
-      "2026-06-09T12:19:00+02:00",
+      "name":
+      "Geizblock",
+      "bundleIdentifier":
+      "de.greensurvivors.geizblock",
+      "marketplaceID":
+      "",
+      "developerName":
+      "joshi1999",
+      "subtitle":
+      "",
       "localizedDescription":
-      null,
-      "minOSVersion":
-      null
+      "",
+      "iconURL":
+      "https://joshi1999.github.io/icon.png",
+      "tintColor":
+      "#04cc24",
+      "category":
+      "games",
+      "screenshots":
+      [
+      ],
+      "versions":
+      [
+        {
+          "downloadURL":
+          "https://joshi1999.github.io/Geizblock.ipa",
+          "size":
+          9100000,
+          "version":
+          "1.0",
+          "buildVersion":
+          null,
+          "date":
+          "2026-06-09T12:19:00+02:00",
+          "localizedDescription":
+          null,
+          "minOSVersion":
+          null
+        }
+      ],
+      "appPermissions":
+      {
+        "entitlements":
+        [
+        ],
+        "privacy":
+        {
+        }
+      },
+      "patreon":
+      {
+      }
     }
   ],
-  "appPermissions":
-  {
-    "entitlements":
-    [
-    ],
-    "privacy":
-    {
-    }
-  },
-  "patreon":
-  {
-  }
+  "news":
+  [
+  ]
 }
