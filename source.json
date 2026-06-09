@@ -3,10 +3,8 @@
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://joshi1999.github.io/icon.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": ["Geizblock"],
   "apps": [
     {
       "name": "Geizblock",
