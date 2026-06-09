@@ -3,40 +3,46 @@
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://joshi1999.github.io/icon.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
-  "featuredApps": [
-  ],
+  "featuredApps": [],
   "apps": [
     {
       "name": "Geizblock",
       "bundleIdentifier": "de.greensurvivors.geizblock",
       "developerName": "joshi1999",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://joshi1999.github.io/icon.png",
       "tintColor": "#04cc24",
       "category": "games",
-      "screenshots": [
-      ],
+      "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://joshi1999.github.io/Geizblock.ipa",
+          "downloadURL": "https://joshi1999.github.io/geizblock/ipas/Geizblock-1.0.1.ipa",
           "size": 9100000,
-          "version": "1.0",
+          "version": "1.0.1",
           "buildVersion": "1",
+          "date": "2026-06-09T17:58:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.0",
           "date": "2026-06-09T12:19:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://joshi1999.github.io/Geizblock.ipa",
+          "size": 9100000,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
       "appPermissions": {
-        "entitlements": [
-        ],
-        "privacy": {
-        }
-      },
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
-  "news": [
-  ]
+  "news": []
 }
