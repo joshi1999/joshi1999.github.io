@@ -18,6 +18,15 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://joshi1999.github.io/geizblock/ipas/Geizblock-1.0.2.ipa",
+          "size": 9100000,
+          "version": "1.0.2",
+          "buildVersion": "1",
+          "date": "2026-06-10T13:02:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
           "downloadURL": "https://joshi1999.github.io/geizblock/ipas/Geizblock-1.0.1.ipa",
           "size": 9100000,
           "version": "1.0.1",
